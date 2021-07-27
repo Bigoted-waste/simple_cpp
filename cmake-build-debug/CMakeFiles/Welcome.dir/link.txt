@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Welcome.dir/Welcome.cpp.o -o Welcome 

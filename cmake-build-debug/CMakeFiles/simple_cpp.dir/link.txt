@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/simple_cpp.dir/main.cpp.o CMakeFiles/simple_cpp.dir/Test_One/Welcome.cpp.o -o simple_cpp 
